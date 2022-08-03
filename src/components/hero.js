@@ -12,7 +12,7 @@ const Hero = () => {
             corrupti. Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Voluptatum
           </p>
-          <a className="btn" href="#">
+          <a className="btn" href=" ">
             Get our Service now
           </a>
         </div>
